@@ -1,0 +1,10 @@
+{
+  "name": "offline budget tracker",
+  "short-name": "budget tracker",
+  "start_url": "/?home=true",
+  "icons": [],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
