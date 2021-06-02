@@ -1,11 +1,11 @@
 {
   "name": "offline budget tracker",
   "short-name": "budget tracker",
-  "start_url": "/?home=true",
+  "start_url": "/index.html",
   "icons": [ 
     {
     "src": "icons/icon-192x192.png",
-    "sizes": "192x192",
+    "sizes": "169x192",
     "type": "image/png"
   }
 ],
